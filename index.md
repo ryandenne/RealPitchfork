@@ -1,23 +1,15 @@
-## Welcome To Lame Impala
+## Welcome To The Real Pitchfork website
 
-Here everyone can appreciate how lame Tame Impala is.
+Here everyone can appreciate great tastes in music. 
 
-If you ever thought your friend has a keen ear for generic drums beats, lazy guitar riffs, and unintelligible lyrics, this customized site is for you.
+Unfortunately, we have to show the bad side of music as well.
 
-### Avg Expert Musician Rating -9.3
-  (note - Rating is not 100% accurate due to the number of suicides after the musicians first listened to Tame Impala)
+Glow On recently showed up on our radar. We will regert that day for the rest of our lives.
 
-```ruby
-# Lame Impala
+This band is trying to push some sort of hardcore fusion of a high tempo Chevelle lyrics with shitty Jane's Addiction vocals.
 
-- Lame Synth
-- Lame Drums
-- Lame Mumble
-```
-
-
-![Dead Cartoon Impala](https://user-images.githubusercontent.com/87154429/125001097-7f53cc80-e017-11eb-92f2-965e367319de.jpg)
+Our Rating
 
 
 
-
+![Untitled](https://user-images.githubusercontent.com/87154429/134788812-984bd135-9f79-41a7-ac72-01a73565a526.png)
